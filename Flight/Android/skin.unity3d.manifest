@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3546214664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e247cc22a8c38ed92bb6721e872ade89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1f93ac74ababbb4dd679cdfa6953b9b9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3702f053d6dea40b6ae6136367349405, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5584ebeaccfbaab419557bfc1e87e2c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afcd85fd7573f42a48ae270b2fe8c186, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/SkinModelAsset.asset
+Dependencies: []

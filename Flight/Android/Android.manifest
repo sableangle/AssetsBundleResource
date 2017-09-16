@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 2388784337
+CRC: 2847921844
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: skin.unity3d
+      Name: skinmodelasset.unity3d
       Dependencies: {}
